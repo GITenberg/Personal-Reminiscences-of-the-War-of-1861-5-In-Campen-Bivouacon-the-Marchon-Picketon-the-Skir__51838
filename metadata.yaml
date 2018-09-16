@@ -1,0 +1,32 @@
+_repo: Personal-Reminiscences-of-the-War-of-1861-5-In-Campen-Bivouacon-the-Marchon-Picketon-the-Skir__51838
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Morgan, W. H. (William Henry)
+    alias: Morgan, William Henry
+    birthdate: 1836
+    gutenberg_agent_id: '46570'
+    url: http://www.gutenberg.org/2009/agents/46570
+description: ''
+gutenberg_issued: '2016-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51838'
+  lccn: '11012070'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Confederate States of America. Army. Virginia Infantry Regiment, 11th'
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives,
+  Confederate'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcsh 'Morgan, W. H. (William Henry), 1836-'
+- GITenberg
+title: 'Personal Reminiscences of the War of 1861-5
+
+  In Camp—en Bivouac—on the March—on Picket—on the Skirmish Line—on the Battlefield—and
+  in Prison'
+url: http://www.gutenberg.org/ebooks/51838

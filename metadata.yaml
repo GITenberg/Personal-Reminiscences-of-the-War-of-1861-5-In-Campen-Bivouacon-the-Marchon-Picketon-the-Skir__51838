@@ -1,5 +1,8 @@
 _repo: Personal-Reminiscences-of-the-War-of-1861-5-In-Campen-Bivouacon-the-Marchon-Picketon-the-Skir__51838
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51838-h/images/cover.jpg
 creator:
   author:
     agent_name: Morgan, W. H. (William Henry)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '46570'
     url: http://www.gutenberg.org/2009/agents/46570
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51838#Personal-Reminiscences-of-the-War-of-1861-5-In-Campen-Bivouacon-the-Marchon-Picketon-the-Skir_
 gutenberg_issued: '2016-04-23'
 gutenberg_type: Text
 identifiers:
